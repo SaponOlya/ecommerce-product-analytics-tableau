@@ -34,7 +34,7 @@ The dataset contains event-level e-commerce data with fields including:
 
 [View the interactive Tableau Public dashboard](ADD_TABLEAU_PUBLIC_LINK_HERE)
 
-![Dashboard preview](images/dashboard_preview.png)
+![Dashboard preview](images/dashboard.jpg)
 
 ## Key metrics
 
